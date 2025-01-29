@@ -1,0 +1,7 @@
+A programação funcional apresenta vantagens para esse tipo de problema, como:
+
+Código mais conciso: Funções como map, filter e reduce evitam loops explícitos, deixando o código masi simples.
+
+Imutabilidade: As operações funcionais evitam modificações desnecessárias nos dados, evitando futuros problemas.
+
+Legibilidade: A abordagem funcional facilita a compreensão do código.
